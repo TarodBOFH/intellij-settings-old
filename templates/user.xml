@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="M" value="$END$($SELECTION$)" description="mehod call" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
+</templateSet>

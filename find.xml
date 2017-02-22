@@ -1,0 +1,31 @@
+<application>
+  <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="Project 'kernel-microservices'" />
+    <option name="defaultScopeName" value="Project 'kernel-microservices'" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="Project 'kernel-microservices'" />
+    <option name="FILE_MASK" value="*.yaml" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.sql,*.java</mask>
+      <mask>*.sql,*.java,*.ftl</mask>
+      <mask>*.sql,*.java,*.ftl,*.yaml</mask>
+      <mask>*.sql,*.java,*.ftl,*.yaml,*.json</mask>
+      <mask>*.java,*.ftl,*.yaml,*.json</mask>
+      <mask>*.sql</mask>
+      <mask>*.ftl,*.yaml</mask>
+      <mask>*.json</mask>
+      <mask>*.java</mask>
+      <mask>*.java,*.sql</mask>
+      <mask>*.yaml</mask>
+    </recentFileMasks>
+  </component>
+</application>

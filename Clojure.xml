@@ -1,0 +1,6 @@
+<application>
+  <component name="ClojureIdeSettings">
+    <option name="coloredParentheses" value="true" />
+    <option name="replHistorySize" value="500" />
+  </component>
+</application>
