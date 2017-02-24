@@ -154,6 +154,7 @@
     <option name="onlyWeakentoInterface" value="true" />
   </inspection_tool>
   <inspection_tool class="UNCHECKED_WARNING" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="UnusedSymbol" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="UseOfObsoleteDateTimeApi" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="UtilityClassWithPublicConstructor" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="UtilityClassWithoutPrivateConstructor" enabled="true" level="WARNING" enabled_by_default="true">
