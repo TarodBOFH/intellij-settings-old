@@ -146,7 +146,9 @@
     <option name="ignoreAbstractClasses" value="true" />
   </inspection_tool>
   <inspection_tool class="StringConcatenationArgumentToLogCall" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
-  <inspection_tool class="SystemOutErr" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="SystemOutErr" enabled="true" level="WARNING" enabled_by_default="true">
+    <scope name="Tests" level="WARNING" enabled="false" />
+  </inspection_tool>
   <inspection_tool class="ThreadDumpStack" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ThrowablePrintStackTrace" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="TypeMayBeWeakened" enabled="true" level="WEAK WARNING" enabled_by_default="true">
