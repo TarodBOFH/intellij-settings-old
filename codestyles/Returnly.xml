@@ -40,6 +40,9 @@
     <option name="NEW_LINE_BEFORE_QUERY_INSIDE_DML" value="true" />
     <option name="INDENT_JOIN" value="false" />
     <option name="IDENTIFIER_CASE" value="1" />
+    <option name="INDEX_NAME_TEMPLATE" value="{table}_{columns}_{unique?u:}x" />
+    <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_pk" />
+    <option name="FOREIGN_KEY_NAME_TEMPLATE" value="fk_{table}_{ref_table}" />
   </SqlCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
