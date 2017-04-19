@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'kernel-microservices'" />
-    <option name="defaultScopeName" value="Project 'kernel-microservices'" />
-    <option name="SEARCH_SCOPE" value="Project 'kernel-microservices'" />
+    <option name="customScope" value="File '.../core/src/main/java/com/returnly/services/core/helpers/Strings2.java - [core_main]'" />
+    <option name="defaultScopeName" value="File '.../core/src/main/java/com/returnly/services/core/helpers/Strings2.java - [core_main]'" />
+    <option name="SEARCH_SCOPE" value="File '.../core/src/main/java/com/returnly/services/core/helpers/Strings2.java - [core_main]'" />
     <option name="FILE_MASK" value="*.yaml" />
     <recentFileMasks>
       <mask>*.properties</mask>
