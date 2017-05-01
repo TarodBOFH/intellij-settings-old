@@ -144,7 +144,6 @@
     <option name="ignoreLazyOperators" value="true" />
     <option name="ignoreObscureOperators" value="false" />
   </inspection_tool>
-  <inspection_tool class="SameParameterValue" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="StaticVariableOfConcreteClass" enabled="false" level="WEAK WARNING" enabled_by_default="false">
     <option name="ignoreAbstractClasses" value="true" />
   </inspection_tool>
