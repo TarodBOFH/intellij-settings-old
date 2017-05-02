@@ -53,11 +53,13 @@
   <inspection_tool class="ConstantConditions" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <option name="SUGGEST_NULLABLE_ANNOTATIONS" value="false" />
     <option name="DONT_REPORT_TRUE_ASSERT_STATEMENTS" value="false" />
+    <option name="IGNORE_ASSERT_STATEMENTS" value="true" />
   </inspection_tool>
   <inspection_tool class="ConstructorCount" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <option name="ignoreDeprecatedConstructors" value="false" />
     <option name="m_limit" value="5" />
   </inspection_tool>
+  <inspection_tool class="Destructure" enabled="false" level="INFO" enabled_by_default="false" />
   <inspection_tool class="EmptyClass" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignorableAnnotations">
       <value />
