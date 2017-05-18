@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java,*.ftl,*.yaml,*.json" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -16,15 +17,19 @@
       <mask>*.sql,*.java,*.ftl</mask>
       <mask>*.sql,*.java,*.ftl,*.yaml</mask>
       <mask>*.sql,*.java,*.ftl,*.yaml,*.json</mask>
-      <mask>*.java,*.ftl,*.yaml,*.json</mask>
       <mask>*.ftl,*.yaml</mask>
       <mask>*.json</mask>
       <mask>*.java,*.sql</mask>
       <mask>*.sql</mask>
-      <mask>*.java</mask>
       <mask>*.yaml</mask>
       <mask>*.k</mask>
       <mask>*.kt</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
+      <mask>*.java,*.ftl,*.yaml,*.json</mask>
     </recentFileMasks>
   </component>
 </application>
