@@ -1,9 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="16">
-    <extensionMap>
-      <mapping ext="ds" type="JavaScript" />
-      <mapping pattern="Procfile" type="PLAIN_TEXT" />
-      <mapping pattern="ansible/*.yaml" type="YAML_EX" />
-    </extensionMap>
-  </component>
-</application>
