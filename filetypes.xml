@@ -5,6 +5,7 @@
       <mapping pattern="apply-stacks" type="Bash" />
       <mapping pattern="remove-stacks" type="Bash" />
       <mapping pattern="get-listener-rule-priority" type="Bash" />
+      <mapping pattern="assoc-vpc-hosted-zone" type="Bash" />
     </extensionMap>
   </component>
 </application>
