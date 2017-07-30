@@ -2,13 +2,14 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="update-service" type="Bash" />
+      <mapping pattern="render-listener-rules" type="Bash" />
       <mapping pattern="get-cluster-ips" type="Bash" />
-      <mapping pattern="apply-stacks" type="Bash" />
+      <mapping pattern="get-service-events" type="Bash" />
       <mapping pattern="cfn-deploy-helper" type="Bash" />
+      <mapping pattern="apply-stacks" type="Bash" />
+      <mapping pattern="assoc-vpc-hosted-zone" type="Bash" />
       <mapping pattern="remove-stacks" type="Bash" />
       <mapping pattern="get-listener-rule-priority" type="Bash" />
-      <mapping pattern="assoc-vpc-hosted-zone" type="Bash" />
-      <mapping pattern="render-listener-rules" type="Bash" />
     </extensionMap>
   </component>
 </application>
