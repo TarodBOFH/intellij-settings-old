@@ -4,8 +4,8 @@
   <option name="GENERATE_FINAL_LOCALS" value="true" />
   <option name="GENERATE_FINAL_PARAMETERS" value="true" />
   <option name="INSERT_INNER_CLASS_IMPORTS" value="true" />
-  <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="6" />
-  <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="4" />
+  <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="16" />
+  <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="6" />
   <option name="IMPORT_LAYOUT_TABLE">
     <value>
       <package name="java" withSubpackages="true" static="false" />
@@ -29,6 +29,8 @@
     <option name="PACKAGES_TO_USE_STAR_IMPORTS">
       <value />
     </option>
+    <option name="NAME_COUNT_TO_USE_STAR_IMPORT" value="16" />
+    <option name="NAME_COUNT_TO_USE_STAR_IMPORT_FOR_MEMBERS" value="6" />
   </JetCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
