@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="create-repository" type="Bash" />
       <mapping pattern="update-service" type="Bash" />
       <mapping pattern="render-listener-rules" type="Bash" />
       <mapping pattern="get-cluster-ips" type="Bash" />
