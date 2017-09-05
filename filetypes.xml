@@ -12,6 +12,7 @@
       <mapping pattern="remove-stacks" type="Bash" />
       <mapping pattern="get-listener-rule-priority" type="Bash" />
       <mapping pattern="jq-helper" type="Bash" />
+      <mapping ext="expected" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
