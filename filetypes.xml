@@ -12,6 +12,7 @@
       <mapping pattern="assoc-vpc-hosted-zone" type="Bash" />
       <mapping pattern="update-service-count" type="Bash" />
       <mapping pattern="remove-stacks" type="Bash" />
+      <mapping pattern="register-with-api-gateway" type="Bash" />
       <mapping pattern="get-listener-rule-priority" type="Bash" />
       <mapping pattern="record-cluster-ips" type="Bash" />
       <mapping pattern="jq-helper" type="Bash" />
