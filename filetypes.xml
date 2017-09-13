@@ -13,6 +13,7 @@
       <mapping pattern="update-service-count" type="Bash" />
       <mapping pattern="remove-stacks" type="Bash" />
       <mapping pattern="get-listener-rule-priority" type="Bash" />
+      <mapping pattern="record-cluster-ips" type="Bash" />
       <mapping pattern="jq-helper" type="Bash" />
       <mapping ext="expected" type="PLAIN_TEXT" />
     </extensionMap>
