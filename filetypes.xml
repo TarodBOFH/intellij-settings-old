@@ -15,6 +15,7 @@
       <mapping pattern="update-service-count" type="Bash" />
       <mapping pattern="remove-stacks" type="Bash" />
       <mapping pattern="register-with-api-gateway" type="Bash" />
+      <mapping pattern="resolve-ssm-params" type="Bash" />
       <mapping pattern="get-listener-rule-priority" type="Bash" />
       <mapping pattern="record-cluster-ips" type="Bash" />
       <mapping pattern="reset-available-ports" type="Bash" />
