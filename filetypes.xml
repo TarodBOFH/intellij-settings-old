@@ -18,6 +18,7 @@
       <mapping pattern="register-with-api-gateway" type="Bash" />
       <mapping pattern="resolve-ssm-params" type="Bash" />
       <mapping pattern="get-listener-rule-priority" type="Bash" />
+      <mapping pattern="amazon-timestamp-to-iso" type="Bash" />
       <mapping pattern="record-cluster-ips" type="Bash" />
       <mapping pattern="reset-available-ports" type="Bash" />
       <mapping pattern="jq-helper" type="Bash" />
