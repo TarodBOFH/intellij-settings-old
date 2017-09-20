@@ -15,6 +15,7 @@
       <mapping pattern="assoc-vpc-hosted-zone" type="Bash" />
       <mapping pattern="update-service-count" type="Bash" />
       <mapping pattern="remove-stacks" type="Bash" />
+      <mapping pattern="args_helper" type="Bash" />
       <mapping pattern="register-with-api-gateway" type="Bash" />
       <mapping pattern="resolve-ssm-params" type="Bash" />
       <mapping pattern="get-listener-rule-priority" type="Bash" />
