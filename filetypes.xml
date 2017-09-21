@@ -8,6 +8,7 @@
       <mapping pattern="get-cluster-ips" type="Bash" />
       <mapping pattern="get-ports-used" type="Bash" />
       <mapping pattern="get-tasks" type="Bash" />
+      <mapping pattern="add-ssm-param" type="Bash" />
       <mapping pattern="get-service-events" type="Bash" />
       <mapping pattern="cfn-deploy-helper" type="Bash" />
       <mapping pattern="apply-stacks" type="Bash" />
