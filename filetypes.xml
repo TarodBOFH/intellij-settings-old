@@ -13,6 +13,7 @@
       <mapping pattern="cfn-deploy-helper" type="Bash" />
       <mapping pattern="apply-stacks" type="Bash" />
       <mapping pattern="redis-helper" type="Bash" />
+      <mapping pattern="add-ssm-secret" type="Bash" />
       <mapping pattern="assoc-vpc-hosted-zone" type="Bash" />
       <mapping pattern="update-service-count" type="Bash" />
       <mapping pattern="remove-stacks" type="Bash" />
