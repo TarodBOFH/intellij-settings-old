@@ -3,8 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
-      <mask>*.properties</mask>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
@@ -18,7 +18,6 @@
       <mask>*.sql,*.java,*.ftl,*.yaml,*.json</mask>
       <mask>*.ftl,*.yaml</mask>
       <mask>*.json</mask>
-      <mask>*.sql</mask>
       <mask>*.yaml</mask>
       <mask>*.k</mask>
       <mask>*.kt</mask>
@@ -27,12 +26,15 @@
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.java,*.ftl,*.yaml,*.json</mask>
-      <mask>*.java</mask>
       <mask>*.java,</mask>
       <mask>*.java,*</mask>
       <mask>*.java,*.</mask>
       <mask>*.java,*.sq</mask>
       <mask>*.java,*.sql</mask>
+      <mask>*.java</mask>
+      <mask>*.s</mask>
+      <mask>*.sq</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
