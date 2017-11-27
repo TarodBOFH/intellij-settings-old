@@ -3,12 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.properties" />
+    <option name="FILE_MASK" value="*.yaml" />
     <recentFileMasks>
-      <mask>*.J</mask>
-      <mask>*.JA</mask>
-      <mask>*.JAVA</mask>
-      <mask>*.java,*.sql</mask>
       <mask>*.java,*.sql,</mask>
       <mask>*.java,*.sql,*</mask>
       <mask>*.java,*.sql,*.</mask>
@@ -35,6 +31,10 @@
       <mask>*.properti</mask>
       <mask>*.propertie</mask>
       <mask>*.properties</mask>
+      <mask>*.y</mask>
+      <mask>*.ya</mask>
+      <mask>*.yam</mask>
+      <mask>*.yaml</mask>
     </recentFileMasks>
   </component>
 </application>
