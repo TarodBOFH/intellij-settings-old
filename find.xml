@@ -3,19 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="build.gradle" />
     <recentFileMasks>
-      <mask>*.java,*.sql,</mask>
-      <mask>*.java,*.sql,*</mask>
-      <mask>*.java,*.sql,*.</mask>
-      <mask>*.java,*.sql,*.ya</mask>
-      <mask>*.java,*.sql,*.yam</mask>
-      <mask>*.java,*.sql,*.yaml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.x</mask>
-      <mask>*.xm</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
       <mask>*.kt</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
@@ -34,6 +23,18 @@
       <mask>*.ya</mask>
       <mask>*.yam</mask>
       <mask>*.yaml</mask>
+      <mask>b</mask>
+      <mask>bu</mask>
+      <mask>bui</mask>
+      <mask>buil</mask>
+      <mask>build</mask>
+      <mask>build.</mask>
+      <mask>build.g</mask>
+      <mask>build.gr</mask>
+      <mask>build.gra</mask>
+      <mask>build.grad</mask>
+      <mask>build.gradl</mask>
+      <mask>build.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
