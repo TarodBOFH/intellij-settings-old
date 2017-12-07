@@ -3,18 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.sql,*.java" />
     <recentFileMasks>
-      <mask>*.kt</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
-      <mask>*.jso</mask>
-      <mask>*.json</mask>
-      <mask>*.p</mask>
-      <mask>*.pr</mask>
-      <mask>*.pro</mask>
-      <mask>*.prop</mask>
-      <mask>*.proper</mask>
-      <mask>*.propert</mask>
       <mask>*.properti</mask>
       <mask>*.propertie</mask>
       <mask>*.properties</mask>
@@ -34,6 +24,17 @@
       <mask>build.grad</mask>
       <mask>build.gradl</mask>
       <mask>build.gradle</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sq</mask>
+      <mask>*.sql</mask>
+      <mask>*.sql,</mask>
+      <mask>*.sql,*</mask>
+      <mask>*.sql,*.</mask>
+      <mask>*.sql,*.j</mask>
+      <mask>*.sql,*.ja</mask>
+      <mask>*.sql,*.java</mask>
     </recentFileMasks>
   </component>
 </application>
