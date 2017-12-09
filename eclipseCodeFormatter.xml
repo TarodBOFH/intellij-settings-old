@@ -5,8 +5,10 @@
         <Settings>
           <option name="formatter" value="ECLIPSE" />
           <option name="id" value="1512781141100" />
+          <option name="importOrderConfigFilePath" value="$USER_HOME$/workspace/java-code-style/eclipse-formatter/Returnly.importorder" />
+          <option name="importOrderFromFile" value="true" />
           <option name="name" value="Returnly" />
-          <option name="pathToConfigFileJava" value="$USER_HOME$/Returnly.xml" />
+          <option name="pathToConfigFileJava" value="$USER_HOME$/workspace/java-code-style/eclipse-formatter/Returnly.xml" />
           <option name="selectedJavaProfile" value="Returnly" />
         </Settings>
       </list>
