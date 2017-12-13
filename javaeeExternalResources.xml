@@ -1,5 +1,6 @@
 <application>
   <component name="ExternalResourceManagerImpl">
     <resource url="http://checkstyle.sourceforge.net/dtds/configuration_1_3.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.3/extResources/40fa6519_configuration_1_3.dtd" />
+    <resource url="http://checkstyle.sourceforge.net/dtds/suppressions_1_1.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.3/extResources/f8acf33_suppressions_1_1.dtd" />
   </component>
 </application>
