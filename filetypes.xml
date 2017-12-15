@@ -11,8 +11,8 @@
       <mapping pattern="get-consumed-event-ids" type="Bash" />
       <mapping pattern="register-with-api-gateway" type="Bash" />
       <mapping pattern="remove-stacks" type="Bash" />
-      <mapping pattern="amazon-timestamp-to-iso" type="Bash" />
       <mapping pattern="get-ports-used" type="Bash" />
+      <mapping pattern="amazon-timestamp-to-iso" type="Bash" />
       <mapping pattern="create-kinesis-streams" type="Bash" />
       <mapping pattern="assoc-vpc-hosted-zone" type="Bash" />
       <mapping pattern="redis-helper" type="Bash" />
@@ -31,6 +31,7 @@
       <mapping pattern="jq-helper" type="Bash" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="jq" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping ext="expected" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
