@@ -54,8 +54,8 @@
     <option name="PACKAGES_TO_USE_STAR_IMPORTS">
       <value />
     </option>
-    <option name="NAME_COUNT_TO_USE_STAR_IMPORT" value="16" />
-    <option name="NAME_COUNT_TO_USE_STAR_IMPORT_FOR_MEMBERS" value="6" />
+    <option name="NAME_COUNT_TO_USE_STAR_IMPORT" value="2147483647" />
+    <option name="NAME_COUNT_TO_USE_STAR_IMPORT_FOR_MEMBERS" value="2147483647" />
   </JetCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
@@ -89,5 +89,18 @@
   </codeStyleSettings>
   <codeStyleSettings language="SQL">
     <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
+  </codeStyleSettings>
+  <codeStyleSettings language="kotlin">
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+    <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+    <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
+    <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
+    <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
+    <option name="CALL_PARAMETERS_WRAP" value="5" />
+    <option name="METHOD_PARAMETERS_WRAP" value="1" />
+    <option name="EXTENDS_LIST_WRAP" value="1" />
+    <option name="FIELD_ANNOTATION_WRAP" value="0" />
+    <option name="ENUM_CONSTANTS_WRAP" value="5" />
   </codeStyleSettings>
 </code_scheme>
