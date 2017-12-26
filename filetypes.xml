@@ -33,6 +33,7 @@
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="jq" type="PLAIN_TEXT" />
       <mapping ext="expected" type="PLAIN_TEXT" />
+      <mapping ext="lang" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
