@@ -19,7 +19,6 @@
       <mask>build.gradle</mask>
       <mask>*.s</mask>
       <mask>*.sq</mask>
-      <mask>*.sql</mask>
       <mask>*.sql,</mask>
       <mask>*.sql,*</mask>
       <mask>*.sql,*.</mask>
@@ -36,6 +35,7 @@
       <mask>*.grad</mask>
       <mask>*.gradl</mask>
       <mask>*.gradle</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
