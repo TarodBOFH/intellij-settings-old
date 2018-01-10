@@ -2,9 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
       <mask>bu</mask>
       <mask>bui</mask>
@@ -34,8 +33,8 @@
       <mask>*.gra</mask>
       <mask>*.grad</mask>
       <mask>*.gradl</mask>
-      <mask>*.gradle</mask>
       <mask>*.sql</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
