@@ -31,6 +31,7 @@
       <mapping pattern="set-logs-retention" type="Bash" />
       <mapping pattern="jq-helper" type="Bash" />
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern=".remove-me" type="PLAIN_TEXT" />
       <mapping pattern="jq" type="PLAIN_TEXT" />
       <mapping ext="expected" type="PLAIN_TEXT" />
       <mapping ext="lang" type="PLAIN_TEXT" />
