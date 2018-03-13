@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.kt,*.java" />
     <recentFileMasks>
-      <mask>bui</mask>
       <mask>buil</mask>
       <mask>build</mask>
       <mask>build.</mask>
@@ -34,6 +34,7 @@
       <mask>*.gradle</mask>
       <mask>*.j</mask>
       <mask>*.sql,*.java</mask>
+      <mask>*.kt,*.java</mask>
     </recentFileMasks>
   </component>
 </application>
