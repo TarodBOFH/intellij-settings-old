@@ -6,7 +6,6 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>buil</mask>
       <mask>build</mask>
       <mask>build.</mask>
       <mask>build.g</mask>
@@ -36,6 +35,7 @@
       <mask>*.j</mask>
       <mask>*.sql,*.java</mask>
       <mask>*.kt,*.java</mask>
+      <mask>*.yaml</mask>
     </recentFileMasks>
   </component>
 </application>
