@@ -199,6 +199,7 @@
     <option name="useParameterizedTypeForCollectionMethods" value="true" />
     <option name="doNotWeakenToJavaLangObject" value="true" />
     <option name="onlyWeakentoInterface" value="true" />
+    <stopClasses>java.time.LocalDateTime</stopClasses>
   </inspection_tool>
   <inspection_tool class="UNCHECKED_WARNING" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="UnnecessaryVariable" enabled="true" level="ERROR" enabled_by_default="true" />
