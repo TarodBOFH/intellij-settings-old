@@ -15,7 +15,6 @@
           <option name="importOrderConfigFilePath" value="$USER_HOME$/workspace/java-code-style/eclipse-formatter/Returnly.importorder" />
           <option name="importOrderFromFile" value="true" />
           <option name="name" value="Returnly" />
-          <option name="optimizeImports" value="false" />
           <option name="pathToConfigFileJava" value="$USER_HOME$/workspace/java-code-style/eclipse-formatter/eclipseCodeFormatter.xml" />
         </Settings>
       </list>
