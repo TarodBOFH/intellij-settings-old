@@ -182,7 +182,9 @@
     <option name="ignoreObscureOperators" value="false" />
   </inspection_tool>
   <inspection_tool class="ReplaceSingleLineLet" enabled="true" level="ERROR" enabled_by_default="true" />
-  <inspection_tool class="SpringJavaAutowiredMembersInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="SpringJavaAutowiredMembersInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+    <scope name="Tests" level="TYPO" enabled="true" />
+  </inspection_tool>
   <inspection_tool class="SpringJavaInjectionPointsAutowiringInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="SpringKotlinAutowiring" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="StaticPseudoFunctionalStyleMethod" enabled="false" level="WARNING" enabled_by_default="false" />
