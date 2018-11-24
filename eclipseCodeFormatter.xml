@@ -2,7 +2,7 @@
   <component name="EclipseCodeFormatterSettings">
     <option name="donationNagger">
       <DonationNagger>
-        <option name="actionsExecuted" value="3" />
+        <option name="actionsExecuted" value="5" />
         <option name="firstUsage" value="1541780988499" />
         <option name="firstUsedVersion" value="18.2.181.000.0-Eclipse_4.9.0" />
       </DonationNagger>
@@ -15,8 +15,7 @@
           <option name="importOrderConfigFilePath" value="$USER_HOME$/workspace/java-code-style/eclipse-formatter/Returnly.importorder" />
           <option name="importOrderFromFile" value="true" />
           <option name="name" value="Returnly" />
-          <option name="pathToConfigFileJava" value="$USER_HOME$/workspace/java-code-style/eclipse-formatter/Returnly.xml" />
-          <option name="selectedJavaProfile" value="Returnly" />
+          <option name="pathToConfigFileJava" value="$USER_HOME$/workspace/java-code-style/eclipse-formatter/eclipseCodeFormatter.xml" />
         </Settings>
       </list>
     </option>
