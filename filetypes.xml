@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="reset-available-ports" type="Bash" />
       <mapping pattern="resolve-ssm-params" type="Bash" />
       <mapping pattern="apply-stacks" type="Bash" />
