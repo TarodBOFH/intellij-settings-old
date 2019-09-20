@@ -4,12 +4,19 @@
     <property name="created">2017-12-20T19:10:10</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.1.0.0</property>
-    <property name="modified">2019-06-20T19:21:37</property>
+    <property name="modified">2019-09-20T08:37:45</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="15" />
-  <option name="EDITOR_FONT_NAME" value="Inconsolata" />
+  <option name="LINE_SPACING" value="1.2" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Cascadia Code" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
+  </font>
+  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="FILESTATUS_ADDED" value="f9d58" />
     <option name="FILESTATUS_COPIED" value="f9d58" />
@@ -22,7 +29,6 @@
     <option name="FILESTATUS_MODIFIED" value="4285f4" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="4285f4" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="4285f4" />
-    <option name="FILESTATUS_RENAMED" value="3a8484" />
     <option name="FILESTATUS_UNKNOWN" value="db4437" />
     <option name="FILESTATUS_addedOutside" value="f9d58" />
     <option name="FILESTATUS_changelistConflict" value="db4437" />
