@@ -4,6 +4,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern="Gemfile" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern=".remove-me" type="PLAIN_TEXT" />
