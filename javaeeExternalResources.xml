@@ -2,6 +2,7 @@
   <component name="ExternalResourceManagerImpl">
     <resource url="http://checkstyle.sourceforge.net/dtds/configuration_1_3.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.3/extResources/40fa6519_configuration_1_3.dtd" />
     <resource url="http://checkstyle.sourceforge.net/dtds/suppressions_1_1.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.3/extResources/f8acf33_suppressions_1_1.dtd" />
+    <resource url="http://www.w3.org/1999/02/22-rdf-syntax-ns#" location="$USER_HOME$/.IntelliJIdea2019.2/system/extResources/edc05920_22-rdf-syntax-ns#.xml" />
     <resource url="http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" location="$USER_HOME$/.IntelliJIdea2019.2/system/extResources/edd63e24_svg10.dtd" />
   </component>
 </application>
