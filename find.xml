@@ -13,5 +13,6 @@
     <mask>*.mxml</mask>
     <mask>*.java</mask>
     <mask>*.kt</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
