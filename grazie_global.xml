@@ -5,6 +5,9 @@
         <option name="suppressed">
           <set>
             <option value="you know tool X" />
+            <option value="and" />
+            <option value="," />
+            <option value="setup is used" />
           </set>
         </option>
       </SuppressingContext>
