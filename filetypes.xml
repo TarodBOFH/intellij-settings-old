@@ -8,9 +8,9 @@
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="AFADG" type="PLAIN_TEXT" />
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="jq" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="jq" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".remove-me" type="PLAIN_TEXT" />
       <mapping ext="expected" type="PLAIN_TEXT" />
       <mapping ext="lang" type="PLAIN_TEXT" />
